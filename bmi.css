@@ -248,7 +248,7 @@ button#calculate:hover {
   color: #4f7df9;
   font-weight: 800;
 }
-/* Youtube link */
+/* Youtube link 
 .link {
   position: fixed;
   background-color: #d12322;
@@ -264,7 +264,7 @@ button#calculate:hover {
   text-decoration: none;
   text-transform: capitalize;
   transition: all 0.1s ease-in-out;
-}
+} */
 
 /* media query for links */
 @media screen and (max-width: 500px) {
